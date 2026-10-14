@@ -1,22 +1,19 @@
 # stupki.pl — pokaż komuś stupki!
 
-
-
 ### czym jest stupki.pl?
 
-stupki.pl to fork [ptoszka](https://github.com/jaczup/ptoszek.pl), tylko ze przerobiony ze zdjeciami stupek.
+stupki.pl to fork [ptoszka](https://github.com/jaczup/ptoszek.pl), tylko że przerobiony ze zdjęciami stópek.
 
-stupki.pl jest idealnie do trollowania znajomych, albo otiweranie komus tej strony na informatyce.
+stupki.pl jest idealne do trollowania znajomych albo otwierania komuś tej strony na informatyce.
 
-**uwaga:** strona jest w 100% bezpieczna, a to repo posiada caly kod strony i cale jej media. projekt ten powstal, aby nikt nie ufal obcym osobom klikac w obce linki, ktorych nie znaja.
+**uwaga:** strona jest w 100% bezpieczna, a to repo posiada cały kod strony i wszystkie jej media. projekt ten powstał, aby nikt nie ufał obcym osobom i nie klikał w obce linki, których nie zna.
 
 ---
 
+## oświadczenie
 
-## oswiadczenie
+ostatnio, dla żartu, ja, właściciel strony, wysłałem stupki.pl do jednej osoby na discordzie.
 
-ostatnio, dla zartu, ja, wlasciciel strony, wyslalem stupki.pl do jednje osoby na discordzie.
+okazało się, że strona wymazała „wszystkie dane z telefonu”. natomiast nie jest to w ogóle możliwe, przeglądarka (jak i strony) nie mają takich możliwości.
 
-okazalo sie, ze strona wymazala "wszystkie dane z telefonu". natomiast nie jest to wogóle możliwe, przeglądarka (jak i strony) nie maja takich mozliwosci.
-
-tak jak napisalem wczesniej, **strona jest w 100% bezpieczna, a to repo posiada caly kod strony i cale jej media**. jesli ktos nie zna sie na js na html itp, moze wrzucic kod do jaiegos llm (ai), a on wytlumaczy, jak strona dziala.
+tak jak napisałem wcześniej, **strona jest w 100% bezpieczna, a to repo posiada cały kod strony i wszystkie jej media**. jeśli ktoś nie zna się na js, html itp., może wrzucić kod do jakiegoś llm (ai), a on wytłumaczy, jak strona działa.

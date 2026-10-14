@@ -1,4 +1,4 @@
-# sputki.pl — pokaż komuś stupki!
+# stupki.pl — pokaż komuś stupki!
 
 
 

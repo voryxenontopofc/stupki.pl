@@ -17,3 +17,4 @@ ostatnio, dla żartu, ja, właściciel strony, wysłałem stupki.pl do jednej os
 okazało się, że strona wymazała „wszystkie dane z telefonu”. natomiast nie jest to w ogóle możliwe, przeglądarka (jak i strony) nie mają takich możliwości.
 
 tak jak napisałem wcześniej, **strona jest w 100% bezpieczna, a to repo posiada cały kod strony i wszystkie jej media**. jeśli ktoś nie zna się na js, html itp., może wrzucić kod do jakiegoś llm (ai), a on wytłumaczy, jak strona działa.
+jesli ktos mysli, ze to wirus, wyslij mu ten repo i udowodnij, ze strona jest bezpieczna.
